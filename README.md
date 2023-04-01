@@ -1,3 +1,10 @@
+
+![Simulator Screen Shot - iPhone SE (3rd generation) - 2023-04-01 at 03 16 32](https://user-images.githubusercontent.com/56641192/229261832-841e4851-e48c-4074-a1c0-f0a5a5281523.png)
+
+
+
+
+
 ##findMe 
 App
 The findMe app is a food ordering app that allows users to order food from anywhere. With an amazing UI made with Flutter, this app is designed to provide users with a seamless and enjoyable experience.
